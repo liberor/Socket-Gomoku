@@ -1,0 +1,26 @@
+# Visual Studio 编译产物
+x64/
+Debug/
+Release/
+.vs/
+
+# 生成文件
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.iobj
+*.ipdb
+*.tlog
+*.log
+*.recipe
+*.lastbuildstate
+*.cache
+
+# VS 用户本地配置（含你的本机路径，不能上传）
+*.user
+*.suo
+
+# 其他
+*.userprefs
